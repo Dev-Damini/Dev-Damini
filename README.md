@@ -34,13 +34,13 @@ Passionate about learning new technologies and building real-world projects.
 
 ---
 
-## 📂 Projects
+## 📂 What i can build for you
 - **Portfolio Website** – Personal portfolio built with HTML, CSS, and JS  
 - **Business Website** – Responsive multi-page site  
 - **Full-Stack Web Application** – Node.js + JS + Database  
 - **E-commerce Website** – Functional store with cart and product pages  
 
-All projects focus on **responsiveness, usability, and real-world use cases**.
+All focus on **responsiveness, usability, and real-world use cases**.
 
 ---
 
