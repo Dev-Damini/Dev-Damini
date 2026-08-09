@@ -2,9 +2,10 @@
   <img src="https://media.giphy.com/media/b33S1f1u3f2Xm/giphy.gif" width="250" alt="Spider-Man Coding"/>
 </p>
 
-# Hi 👋 I'm a Software Engineer
+# Hi 👋 I'm Damini
+### Full Stack Developer & AI Engineer | Founder of Damini Codesphere
 
-I build modern, scalable, and functional web applications with clean, maintainable code. Passionate about architecture, automation, and building real-world projects.
+I build intelligent, production-ready systems that bridge the gap between complex AI and seamless user experiences. With 3+ years of experience, I specialize in building everything from AI-powered chatbots and voice assistants to high-scale search engines and full-stack web applications.
 
 ---
 
@@ -12,47 +13,46 @@ I build modern, scalable, and functional web applications with clean, maintainab
 
 ### Frontend
 <p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React"/>
 </p>
 
-### Backend & Databases
+### Backend & AI/ML
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" alt="Express"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" alt="Firebase"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="40" alt="Firebase"/>
 </p>
 
 ### Tools & Infrastructure
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" alt="GitHub"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="40" alt="npm"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" alt="Postman"/>
   <img src="https://cdn.simpleicons.org/render/000000" width="40" alt="Render"/>
-  <img src="https://cdn.simpleicons.org/trello/0052CC" width="40" alt="Trello"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" alt="Postman"/>
 </p>
 
 ---
 
-## 📂 What I Build
-- **Full-Stack Web Applications** – End-to-end web apps with modern frontend frameworks and robust backend services.
-- **AI & Business Automation Tools** – Custom workflows, API integrations, and webhook systems for client operations.
-- **E-commerce Solutions** – Functional stores with real-time state management, secure auth, and custom backend logic.
-- **Responsive Web Applications** – Optimized platforms designed for high usability and cross-device performance.
+## 📂 Key Projects
+- **[DANI.ai](https://daniai.vercel.app/)** – Your AI best friend: Conversational AI combined with stunning image generation and voice interactions.
+- **DANI WhatsApp AI** – A powerful, multi-modal AI companion accessible directly on WhatsApp (Terminal access, music, weather, and more).
+- **[DaniSearch](https://damini-dev.name.ng/)** – A next-gen search engine with lightning-fast indexing and advanced ranking algorithms.
+- **[DamiAPIs](https://api.damiapis.zone.id/)** – An open developer hub providing REST API endpoints for AI chat, image generation, weather, and TTS.
 
 ---
 
-## 📬 Contact
-- 📧 Email: **damibotsinc@gmail.com**  
-- 💼 Open to **full-time software engineering, freelance, & remote opportunities**  
-- 🌐 GitHub: [github.com/Dev-Damini](https://github.com/Dev-Damini)  
-- 📱 WhatsApp: [wa.me/2348054671458](https://wa.me/2348054671458)
+## 📬 Connect with Me
+- 🌐 **Portfolio**: [damini-dev.name.ng](https://damini-dev.name.ng/)
+- 📧 **Email**: [admin@daminicodes.zone.id](mailto:admin@daminicodes.zone.id)
+- 💼 **GitHub**: [github.com/Dev-Damini](https://github.com/Dev-Damini)
+- 📱 **WhatsApp**: [+234 805 467 1458](https://wa.me/2348054671458)
 
 ---
 
 ## ⚡ Fun Fact
-I enjoy solving complex problems, building automated systems, and web-slinging code into production! 🕷️
+I don't just write code; I weave intelligence into applications. Whether it's building a JARVIS-style assistant or scaling search architecture, I'm always web-slinging new solutions into production! 🕷️
